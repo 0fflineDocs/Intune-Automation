@@ -1,2 +1,2 @@
-# IntuneAutomation
-DevOps Intune Automation
+# Intune Automation
+Githubrepo for DevOps - Intune Automation
